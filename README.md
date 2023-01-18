@@ -1,1 +1,1 @@
-# fantasy_hockey_fa_optimizer
+# Fantasy Hockey Free Agent Acquisition Optimizer #
